@@ -1,0 +1,7 @@
+{
+  "name": "no-build-break-plugin",
+  "author": "monthzifang",
+  "main": "awa.nobuild.NoBuildBreakPlugin",
+  "description": "禁止玩家在服务器内放置和拆除方块。",
+  "version": "1.0.0"
+}
